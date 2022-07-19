@@ -25,7 +25,7 @@ client.login("roblosecurity")
 3. Put them in a common folder
 4. Create a Python file
 5. Don't forget to import the module `import roblox`
-6. Copy the code here
+6. Copy the code [here](https://github.com/ArticOff/robloxAPI/tree/main#quick-examples)
 7. fill in the email, username, password and ROBLOSECURITY
 
 ***
