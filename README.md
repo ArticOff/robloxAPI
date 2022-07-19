@@ -4,6 +4,8 @@
 
 The project is under development
 
+#### I still haven't put the project on Pypi, I'll do it as soon as I've fixed all the bugs
+
 ## Quick Examples
 
 ```python
